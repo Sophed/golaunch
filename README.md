@@ -1,0 +1,1 @@
+# golaunch — go project init
