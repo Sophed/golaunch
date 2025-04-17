@@ -4,8 +4,8 @@ run *ARGS:
 
 build:
     @echo -e "\e[1;32mbuilding project...\033[0m"
-    @rm -rf ./.build
-    @go build -o ./.build/bin ./app
+    @rm -rf ./build
+    @go build -o ./build/bin ./app
     @echo -e "\e[1;32mbuild successful\033[0m"
 
 test:
