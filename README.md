@@ -1,4 +1,5 @@
 # golaunch — go project init
+![showcase of just recipes](image.png)
 
 ## Usage
 `golaunch <name>` to create a project
@@ -11,6 +12,8 @@ example <- name used for root dir
 ├─ app
 │  ├─ main.go
 │  └─ main_test.go
+├─ build
+│  └─ bin <- output binary from build script
 ├─ go.mod
 ├─ justfile <- build/run/test scripts
 ├─ LICENSE <- auto generated from username/current year
