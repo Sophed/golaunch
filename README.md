@@ -1,3 +1,8 @@
+# ARCHIVED
+I realised soon after making this that it would have been much more useful to design with multiple languages/templates in mind.
+
+So I did just that, see [Sophed/mkpr](https://github.com/Sophed/mkpr)!
+
 # golaunch — go project init
 ![showcase of just recipes](image.png)
 
